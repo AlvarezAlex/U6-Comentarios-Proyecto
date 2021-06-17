@@ -1,0 +1,7 @@
+C:\Users\alexe\source\repos\U6 Comentarios Proyecto\bin\Debug\U6 Comentarios Proyecto.exe.config
+C:\Users\alexe\source\repos\U6 Comentarios Proyecto\bin\Debug\U6 Comentarios Proyecto.exe
+C:\Users\alexe\source\repos\U6 Comentarios Proyecto\bin\Debug\U6 Comentarios Proyecto.pdb
+C:\Users\alexe\source\repos\U6 Comentarios Proyecto\obj\Debug\U6 Comentarios Proyecto.csprojAssemblyReference.cache
+C:\Users\alexe\source\repos\U6 Comentarios Proyecto\obj\Debug\U6 Comentarios Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\U6 Comentarios Proyecto\obj\Debug\U6 Comentarios Proyecto.exe
+C:\Users\alexe\source\repos\U6 Comentarios Proyecto\obj\Debug\U6 Comentarios Proyecto.pdb
